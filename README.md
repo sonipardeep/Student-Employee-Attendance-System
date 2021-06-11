@@ -1,4 +1,4 @@
-This is very simple attendance Sysem for teacher or any organization owner, who want to digitze
+This is very simple attendance System for teacher or any organization owner, who want to digitze
 Student or Employee attendance record. 
 
 
